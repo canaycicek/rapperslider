@@ -1,0 +1,17 @@
+.card-text a{
+    text-decoration: none;
+}
+.card-footer{
+    display: flex;
+    justify-content: center;
+    column-gap: 2rem;
+    align-items: center;
+}
+.card-footer i{
+    cursor: pointer;
+}
+.img-container{
+    width: 636px;
+    height: 636px;
+    overflow: hidden;
+}
