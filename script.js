@@ -3,28 +3,28 @@ var rappers = [
     name: "Vio(sensei) - Aşkın Mert Şalcıoğlu",
     description:
       "Vio veya gerçek adıyla Aşkın Mert Şalcıoğlu, Türk rapçi, şarkıcı ve söz yazarı.",
-    image: "/img/vio.jpg",
+    image: "img/vio.jpg",
     link: "https://tr.wikipedia.org/wiki/Vio",
   },
   {
     name: "Motive - Tolga Can Serbes",
     description:
       "Tolga Can Serbes, ya da bilinen sahne adıyla Motive Türk rap şarkıcısı ve söz yazarı.",
-    image: "/img/motive.jpg",
+    image: "img/motive.jpg",
     link: "https://tr.wikipedia.org/wiki/Motive_(m%C3%BCzisyen)",
   },
   {
     name: "Allâme - Hamza Gül",
     description:
       "Allâme veya gerçek adıyla Hamza Gül; Türk müzisyen, söz yazarı ve animatör.",
-    image: "/img/allame.jpg",
+    image: "img/allame.jpg",
     link: "https://tr.wikipedia.org/wiki/All%C3%A2me",
   },
   {
     name: "Massaka - Murat İlhan",
     description:
       "Murat İlhan ya da bilinen sahne adıyla Massaka, Türk rapçi ve söz yazarı.",
-    image: "/img/massaka.jpg",
+    image: "img/massaka.jpg",
     link: "https://tr.wikipedia.org/wiki/Massaka",
   },
 ];
